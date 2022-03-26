@@ -9,4 +9,5 @@
 
 截图：
 （1）虚拟机：
+![image](https://github.com/whocares2016/image-readme/1.jpg)
 （2）真机：
