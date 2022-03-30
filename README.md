@@ -9,7 +9,7 @@
 
 截图：
 （1）虚拟机：
-![image](images/xnj1.jpg)
+![image](https://github.com/whocares2016/Android-Studio_ActivityTest/blob/master/images/xnj1.jpg)
 ![image](images/xnj2.jpg)
 ![image](images/xnj3.jpg)
 ![image](images/xnj4.jpg)
