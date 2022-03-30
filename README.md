@@ -20,3 +20,5 @@
 ![image](images/真机3.jpg)
 ![image](images/真机4.jpg)
 ![image](images/真机5.jpg)
+
+截图在readme中无法显示，打开在android studio中能查看
