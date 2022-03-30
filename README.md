@@ -9,4 +9,14 @@
 
 截图：
 （1）虚拟机：
+![image](images/xnj1.jpg)
+![image](images/xnj2.jpg)
+![image](images/xnj3.jpg)
+![image](images/xnj4.jpg)
+![image](images/xnj5.jpg)
 （2）真机：
+![image](images/真机1.png)
+![image](images/真机2.jpg)
+![image](images/真机3.jpg)
+![image](images/真机4.jpg)
+![image](images/真机5.jpg)
