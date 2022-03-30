@@ -9,13 +9,13 @@
 
 截图：
 （1）虚拟机：
-![Image](image-readme/xnj1.jpg)
-![Image](image-readme/xnj2.jpg)
-![Image](image-readme/xnj3.jpg
-![Image](image-readme/xnj4.jpg)
-![Image](image-readme/xnj5.jpg)
+![Image](images/xnj1.jpg)
+![Image](images/xnj2.jpg)
+![Image](images/xnj3.jpg)
+![Image](images/xnj4.jpg)
+![Image](images/xnj5.jpg)
 （2）真机：
-![Image](image-readme/真机1.jpg)
+![Image](images/真机1.png)
 ![Image](image-readme/真机2.jpg)
 ![Image](image-readme/真机3.jpg)
 ![Image](image-readme/真机4.jpg)
