@@ -15,7 +15,7 @@
 ![Image](images/xnj4.jpg)
 ![Image](images/xnj5.jpg)
 （2）真机：
-![Image](images/真机1.png)
+![Image](https://github.com/whocares2016/Android-Studio_ActivityTest/blob/master/images/%E7%9C%9F%E6%9C%BA1.png)
 ![Image](image-readme/真机2.jpg)
 ![Image](image-readme/真机3.jpg)
 ![Image](image-readme/真机4.jpg)
