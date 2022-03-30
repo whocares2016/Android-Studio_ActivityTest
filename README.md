@@ -9,5 +9,14 @@
 
 截图：
 （1）虚拟机：
-![image](https://github.com/whocares2016/Android-Studio_ActivityTest/blob/master/image-readme/1.jpg)
+![Image](image-readme/xnj1.jpg)
+![Image](image-readme/xnj2.jpg)
+![Image](image-readme/xnj3.jpg
+![Image](image-readme/xnj4.jpg)
+![Image](image-readme/xnj5.jpg)
 （2）真机：
+![Image](image-readme/真机1.jpg)
+![Image](image-readme/真机2.jpg)
+![Image](image-readme/真机3.jpg)
+![Image](image-readme/真机4.jpg)
+![Image](image-readme/真机5.jpg)
